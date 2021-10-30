@@ -1,5 +1,5 @@
 # jpeg-encoding
-##Input Image
+## Input Image
 - Put the input images in the /input directory and run the resize.py file to resize them into dimensions divisible by 8.
 - The resized input images are saved in /input_rs directory
 
